@@ -4,11 +4,17 @@ Micro-Services Using Eureka Spring : https://www.baeldung.com/spring-cloud-netfl
 
 ******************************************
 Limits MicroService : 8080
+
 Spring cloud configuration server: 8888
+
 Currency Exchange microservice : 8000,8001
+
 Currency conversion microservice : 8100
+
 Netflix Eureka naming server : 8761
+
 Api Gateway : 8765
+
 Zipkin Distributed Trancing Server : 9411
 *******************************************
 
